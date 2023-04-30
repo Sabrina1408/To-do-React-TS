@@ -19,7 +19,7 @@
 <h2>👀 Problemas/Ideias/Fazer</h2>
 <h3>Problemas</h3>
 <ul>
-  <li>❌ Variável de dificuldade dando NaN quando aperta em BackSpace.</li>
+  <li>✔️ Variável de dificuldade dando NaN quando aperta em BackSpace.</li>
 </ul>
 <h3>Ideias/Fazer</h3>
 <ul>
